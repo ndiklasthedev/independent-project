@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 
-/* Custom Properties, update these for your own design */
+/* playing around with custom properties  */
 
 :root {
     --ff-primary: 'Source Sans Pro', sans-serif;
@@ -35,7 +35,7 @@
     }
 }
 
-/* General styles */
+/* Global styles */
 
 body {
     background: var(--clr-light);
@@ -62,7 +62,7 @@ strong { font-weight: var(--fw-bold) }
     outline-offset: 3px;
 }
 
-/* Buttons */
+/* customizing buttons */
 
 .flow {
     display: inline-block;
