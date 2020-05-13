@@ -7,8 +7,8 @@
 /* playing around with custom properties  */
 
 :root {
-    --ff-primary: 'Source Sans Pro', sans-serif;
-    --ff-secondary: 'Source Code Pro', monospace;
+    --ff-primary: 'DM Mono', monospace;
+    --ff-secondary: 'Open Sans', sans-serif;
     
     --fw-reg: 300;
     --fw-bold: 900;
@@ -337,6 +337,8 @@ nav { display: none; }
 
 .social-list__item {
     margin: 0 .5em;
+    size: 40em;
+
 }
 
 .social-list__link {
